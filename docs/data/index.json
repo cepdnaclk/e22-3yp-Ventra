@@ -1,35 +1,33 @@
+
 {
-    "team": [
-        {
-            "name": "Monisha",
-            "email": "e22381@eng.pdn.ac.lk",
-            "eNumber": "E/22/381"
-        },
-        {
-            "name": "Vikashan",
-            "email": "e22409@eng.pdn.ac.lk",
-            "eNumber": "E/22/409"
-        },
-        {
-            "name": "Sadurshika",
-            "email": "e22337@eng.pdn.ac.lk",
-            "eNumber": "E/22/337"
-        },  
-        {
-            "name": "Thilakshan",
-            "email": "e22397eng.pdn.ac.lk",
-            "eNumber": "E/22/397"
-        }
-    ],
-    "supervisors": [
-        {
-            "name": "Dr. Supervisor 1",
-            "email": "email@eng.pdn.ac.lk"
-        },
-        {
-            "name": "Supervisor 2",
-            "email": "email@eng.pdn.ac.lk"
-        }
-    ],
-    "tags": ["Web", "Embedded Systems"]
+  "title": "Ventra - BVM Ventilation Feedback and Training System",
+  "team": [
+    {
+      "name": "R. Thilakshan",
+      "email": "e22397@eng.pdn.ac.lk",
+      "eNumber": "E/22/397"
+    },
+    {
+      "name": "S. Monisha",
+      "email": "e22381@eng.pdn.ac.lk",
+      "eNumber": "E/22/381"
+    },
+    {
+      "name": "K. Sadurshika",
+      "email": "e22337@eng.pdn.ac.lk",
+      "eNumber": "E/22/337"
+    },
+    {
+      "name": "S. Vikashan",
+      "email": "e22409@eng.pdn.ac.lk",
+      "eNumber": "E/22/409"
+    }
+  ],
+  "supervisors": [],
+  "tags": [
+    "Cyber-Physical Systems",
+    "Embedded Systems",
+    "Medical IoT",
+    "ESP32"
+  ]
 }
