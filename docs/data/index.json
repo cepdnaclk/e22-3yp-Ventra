@@ -23,10 +23,15 @@
     }
   ],
   "supervisors": [],
+  
   "tags": [
     "Cyber-Physical Systems",
     "Embedded Systems",
     "Medical IoT",
     "ESP32"
-  ]
+  ],
+  "image": "cover_page.jpg",
+  "thumbnail": "thumbnail.jpg"
 }
+
+
